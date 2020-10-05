@@ -88,7 +88,7 @@ function findUnique(wordsArr) {
     }
     
   }
-  return uniqueWord;
+  return uniqueWord[0];
 }
 
 
